@@ -28,6 +28,7 @@ C:\Users\{用户名}\AppData\LocalLow\Triassic Games\Sea Power\usersettings.ini
 ```
 
 下的每一个模组文件的**info.ini**并与**usersettings.ini**中的编号配对
+
 ### 模组拖动加载顺序
 模组控制语句：
 ```
@@ -43,6 +44,7 @@ Mod{num}Directory = {mod_code},{True/False}
 ### 基本功能
 1.新建文件夹存放程序
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/1.jpg)
+
 2.打开程序设置用户配置文件与创意工坊路径
 ```
 用户配置文件路径参考：
@@ -50,20 +52,28 @@ C:\Users\{your_user_name}\AppData\LocalLow\Triassic Games\Sea Power\usersettings
 创意工坊路径参考：
 E:\SteamLibrary\steamapps\workshop\content\1286220
 ```
+
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/2.jpg)
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/3.jpg)
+
 3.点击**读取/刷新**加载模组列表
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/5.jpg)
-3.**双击**切换模组开启/关闭
+
+4.**双击**切换模组开启/关闭
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/7.jpg)
-4.**拖动**选中的模组修改加载顺序
+
+5.**拖动**选中的模组修改加载顺序
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/8.jpg)
-5.点击**保存配置(覆盖备份)** 保存配置
+
+6.点击**保存配置(覆盖备份)** 保存配置
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/9.jpg)
+
 ### 模组预设保存
 1.保存配置后点击**保存预设**预设文件会自动保存在同目录下“Presets"文件夹内
 ![image](https://github.com/ORION2004/SeaPower_ModManager/blob/main/image/10.jpg)
+
 2.点击**加载预设**选择需要加载的预设，加载前会检测创意工坊目录内是否有预设内的模组，如没有则会弹窗提醒
+
 3.点击**保存配置(覆盖备份)** 保存配置
 
 ### 注意事项
